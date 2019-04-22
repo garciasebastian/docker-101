@@ -36,7 +36,7 @@ _Contenido:_
 2. Introducción a GitHub
 3. Instalación de Docker
 4. Dinámica del Curso
-5. Proyecto
+5. Asignación
 
 ### **2. Ejecución de Contenedores Docker**
 
@@ -58,7 +58,7 @@ _Contenido:_
 1. Repositorios de imágenes (`pull`)
 2. Creación de imágenes (`build` - `tag`)
 3. Publicación de imágenes (`push`)
-4. Proyecto
+4. Asignación
 
 ### **4. Aplicaciones en contenedores**
 
@@ -79,7 +79,7 @@ _Contenido:_
 1. Aplicaciones multi-contenedores
 2. Composición de contenedores (`docker-compose`)
 3. Manipulación de servicios
-4. Proyecto
+4. Asignación
 
 ### **6. Integración continua con Docker**
 
