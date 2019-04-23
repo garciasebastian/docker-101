@@ -76,6 +76,8 @@ El mismo debe crear tres archivos en la carpeta llamados:
 
 Debera introducir su nombre completo y su email al ejecutar el comando.
 
+Asegúrese de que los tres archivos subieron al repositorio.
+
 #### 9. Sincronizar el repositorio local con el remoto
 
 Las instrucciones de uso de los comandos `git add`, `git commit` y `git push`, se encuentran en el siguiente [enlace](https://git-scm.com/docs).
