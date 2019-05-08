@@ -38,6 +38,9 @@ _Contenido:_
 4. Dinámica del Curso
 5. [Asignación Semana 1](https://github.com/garciasebastian/docker-101/blob/master/presentaciones/DEV101%20-%20Mod01%20Asignacion.md)
 
+Prerequisitos:
+1. Revisar el curso [Introducción a Git](https://www.youtube.com/watch?v=j8CSUPIB8mA&list=PLvimn1Ins-43-1sXQmGZPWLjNjPyGNi0R)
+
 ### **2. Ejecución de Contenedores Docker**
 
 _Fecha_: Jueves 4 de Julio

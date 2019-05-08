@@ -87,5 +87,5 @@ Las instrucciones de uso de los comandos `git add`, `git commit` y `git push`, s
 El correo debe ser dirigido a segarcia@gbm.net y debe contener la siguiente información:
 
 * Nombre del estudiante
-* Url del repositorio (ej. [https://github.com/garciasebastian/docker-101](https://github.com/garciasebastian/docker-101)
+* Url del repositorio (ej. [https://github.com/garciasebastian/docker-101](https://github.com/garciasebastian/docker-101))
 * SHA del commit con la versión del repositorio a entregar como asignación final (ej. f550fc13e3883518ed3477f367145a6c5ed18987)
