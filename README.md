@@ -48,9 +48,10 @@ _Duración_: 1.5 horas
 
 _Contenido:_
 
-1. Creación de contenedores (`run` - `exec` - `attach`)
-2. Manipulación de contenedores (`ps` - `ls` - `stop` - `start` )
-3. Reinicio y parada de contenedores (`stop` - `start` )
+1. Tecnología de Contenedores
+2. Creación de contenedores (`run` - `exec` - `attach`)
+3. Manipulación de contenedores (`ps` - `ls` - `stop` - `start` )
+4. Reinicio y parada de contenedores (`stop` - `start` )
 
 ### **3. Creación de Imágenes**
 
