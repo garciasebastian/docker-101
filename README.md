@@ -33,8 +33,8 @@ _Duración_: 1.5 horas
 _Contenido:_
 
 1. ¿Qué es Docker y para qué se usa?
-2. Introducción a GitHub
-3. Instalación de Docker
+2. Instalación de Docker
+3. Introducción a Git/GitHub
 4. Dinámica del Curso
 5. [Asignación Semana 1](https://github.com/garciasebastian/docker-101/blob/master/presentaciones/DEV101%20-%20Mod01%20Asignacion.md)
 
