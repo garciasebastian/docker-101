@@ -66,7 +66,7 @@ Esta carpeta debe crearse dentro del repositorio configurado en el paso anterior
 
 Sitúese en la carpeta `semana-01` y ejecute el siguiente comando:
 
-`docker run -it  -v ${PWD}:/home sgarciac/d101-sem01`
+`docker run -it  -v ${PWD}:/home gbmtechacademy/d101-sem01`
 
 El mismo debe crear tres archivos en la carpeta llamados:
 
