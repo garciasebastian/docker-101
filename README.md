@@ -50,16 +50,16 @@ _Contenido:_
 
 1. Tecnología de Contenedores
 2. Creación de contenedores (`run` - `exec` - `attach`)
-3. Manipulación de contenedores (`ps` - `ls` - `stop` - `start` )
-4. Reinicio y parada de contenedores (`stop` - `start` )
+3. Manipulación de contenedores (`ps` - `ls` - `rm` - `prune` )
+4. Reinicio y parada de contenedores (`stop` - `start` - `kill` )
 
-### **3. Creación de Imágenes**
+### **3. Gestión de Imágenes**
 
 _Fecha_: Viernes 5 de Julio
 _Duración_: 1.5 horas 
 
 _Contenido:_
-1. Repositorios de imágenes (`pull`)
+1. Registros de imágenes (`pull`)
 2. Creación de imágenes (`build` - `tag`)
 3. Publicación de imágenes (`push`)
 4. Asignación
