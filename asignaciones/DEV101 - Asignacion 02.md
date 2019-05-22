@@ -23,7 +23,7 @@ El archivo debe realizar las siguientes tareas:
 5. Configurar el contenedor para que ejecute nginx al levantar.
 
 #### 3. Compilar la imagen y probar el contenedor localmente
-Luego de compilar el contenedor debe ejecutarlo localmente direccionando el puerto 80 del host e invocar [http://localhost](http://localhost), debe poder visualizar el sitio web de ejemplo.
+Luego de compilar el contenedor debe ejecutarlo localmente direccionando el puerto 8080 del host e invocar [http://localhost:8080](http://localhost:8080), debe poder visualizar el sitio web de ejemplo.
 
 #### 4. Crear un repositorio en dockerhub
 Esto debe realizarlo con el usuario creado durante la asignación 1.
