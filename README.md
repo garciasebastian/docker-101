@@ -36,7 +36,7 @@ _Contenido:_
 2. Instalación de Docker
 3. Introducción a Git/GitHub
 4. Dinámica del Curso
-4. [Asignación Semana 2](https://github.com/garciasebastian/docker-101/blob/master/asignaciones/DEV101%20-%20Asignacion%2001.md)
+4. [Asignación Semana 1](https://github.com/garciasebastian/docker-101/blob/master/asignaciones/DEV101%20-%20Asignacion%2001.md)
 
 Prerequisitos:
 1. Revisar el curso [Introducción a Git](https://www.youtube.com/watch?v=j8CSUPIB8mA&list=PLvimn1Ins-43-1sXQmGZPWLjNjPyGNi0R)
