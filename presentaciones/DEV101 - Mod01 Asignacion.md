@@ -84,7 +84,7 @@ Las instrucciones de uso de los comandos `git add`, `git commit` y `git push`, s
 
 #### 10. Enviar por correo el url del repositorio y el SHA del commit
 
-El correo debe ser dirigido a segarcia@gbm.net y debe contener la siguiente información:
+El correo debe ser dirigido a [segarcia@gbm.net](mailto:segarcia@gbm.net) y debe contener la siguiente información:
 
 * Nombre del estudiante
 * Url del repositorio (ej. [https://github.com/garciasebastian/docker-101](https://github.com/garciasebastian/docker-101))
