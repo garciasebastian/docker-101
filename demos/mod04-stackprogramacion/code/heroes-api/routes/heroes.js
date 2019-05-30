@@ -1,38 +1,3 @@
-# Creación del ambiente del demo
-
-## Base de Datos MongoDB
-
-#### Iniciar contendor con la base de datos
-```sh
-$ docker run --name heroes-db -p 27017:27017 -d mongo
-```
-
-
-## API
-
-#### Generación aplicación ExpressJS
-```sh
-$ express heroes-api
-$ npm install
-$ npm start
-```
-
-#### Agregar librería de mongodb
-```sh
-$ npm install mongodb --save
-```
-
-#### Creación endpoints `GET:getHeroes` y `POST:addHero`
-
-**app.js** 
-```javascript
-//Agregar heroes API
-var usersRouter = require('./routes/heroes');
-app.use('/', usersRouter);
-```
-
-**routes/heroes.js**
-```javascript
 var express = require('express');
 var router = express.Router();
 const MongoClient = require('mongodb').MongoClient;
@@ -84,4 +49,3 @@ router.post('/addHero', (req, res) => {
 });
 
 module.exports = router;
-```
