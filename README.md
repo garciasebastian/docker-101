@@ -17,7 +17,7 @@ La estructura del curso es la siguiente:
 | 1 | Introducción                     |  2 horas |  Jueves 27 de Junio |
 | 2 | Ejecución de contenedores Docker |  2 horas |  Jueves 04 de Julio |
 | 3 | Creación de imágenes             |  2 horas |  Jueves 11 de Julio |
-| 5 | Arquitecturas multi-contenedores |  2 horas |  Jueves 18 de Julio |
+| 4 | Arquitecturas multi-contenedores |  2 horas |  Jueves 18 de Julio |
 
 
 ## Descripción de Módulos
